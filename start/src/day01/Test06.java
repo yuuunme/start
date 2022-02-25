@@ -2,8 +2,9 @@ package day01;
 
 public class Test06 {
 	public static void main(String[] args) {
-		System.out.printf("%6s : %7.2f\n", "파이", 3.14);  //%3.2f = 전체 자릿수는 7자리고, 소수점 뒷자리 2 이하로
-		System.out.printf("%5s : %7.2f", "원넓이", 10.5);
+		System.out.printf("%6s : %7.2f\n", "파이", 3.14);  //%7.2f\n = 전체 자릿수는 7자리고, 소수점 뒷자리 2 이하로 만들고 줄바꿈.
+		System.out.printf("%5s : %7.2f", "원넓이", 10.5); 
+
 	}
 }
 
