@@ -15,6 +15,16 @@ package day04.ex;
 				4와 100으로 나누어 떨어지는 해
  
  */
-public class Ex04 {
 
+import java.util.*;
+
+import javax.swing.JOptionPane;
+	public class Ex04 {
+		{
+		
+		
+		
+	
+	
+	}
 }
